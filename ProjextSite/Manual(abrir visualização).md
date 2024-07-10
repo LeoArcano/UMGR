@@ -132,7 +132,7 @@ Ao clicar com o botão direito do mouse na tela e escolher a opção "Mostrar Ve
 Navegadores fornecem um ambiente de experiência para visualização do projeto, chamado de local-host. É similar ao preview do VScode, sendo que essas modificações não afetarão o site online. 
 
 ### Terceira
-Para aplicar, de fato, as atualizações do site na internet, visite o endereço https://tiiny.host, o login será através de um link enviado para o email cadastrado. Já logado, automaticamente direcionado para a tela de gerenciamento, clique em Update, exclua o arquivo atual e arraste toda a pasta do arquivo do projeto em formato ZIP com as novas atualizações e clique em update. O site deverá se apresentar com o mesmo endereço https://amaranth-madelina-81.tiiny.site, mas com as novas atualizações.  
+Para aplicar, de fato, as atualizações do site na internet, visite o endereço https://tiiny.host, o login será através de um link enviado para o email cadastrado. Já logado, automaticamente direcionado para a tela de gerenciamento, clique em Update, exclua o arquivo atual e arraste toda a pasta do arquivo do projeto em formato ZIP com as novas atualizações e clique em update. O site deverá se apresentar com o mesmo endereço https://umgr.tiiny.site, mas com as novas atualizações.  
 
 ![Texto alternativo](/img/update.png)
 
