@@ -14,7 +14,7 @@
 Para a manipulação dos códigos é necessário o uso de uma IDE, orientamos o VScode, que pode ser baixado pelo site https://code.visualstudio.com. 
 Após a instalação, basta arrastar a pasta do projeto para o workspace do Vscode e escolher a opção adicionar.
 
-![Add Pasta ao WorkSpace](/img/addpasta.png)
+![Add Pasta ao WorkSpace](./img/addpasta.png)
 
 
 ***Clicar no arquivo index.html***
